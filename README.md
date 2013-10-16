@@ -23,9 +23,9 @@ Ranks the emotional involvment of two indiviauls in a conversation (Instant mess
     "timestamp": 1381907221
   },
   {
-    "to": "Bob",
-    "from": "Alice",
-    "content": "Hi Bob! What's up ?",
+    "to": "Alice",
+    "from": "Bob",
+    "content": "Not much Alice. I've been feeling pretty bad and insecure lately ...",
     "timestamp": 1381907251
   },
   ...
